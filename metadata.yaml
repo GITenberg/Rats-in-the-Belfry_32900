@@ -1,0 +1,31 @@
+_repo: Rats-in-the-Belfry_32900
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 32900-h/images/cover.jpg
+creator:
+  author:
+    agent_name: O'Brien, David Wright
+    alias: Cabot, John York
+    birthdate: 1918
+    deathdate: 1944
+    gutenberg_agent_id: '36098'
+    url: http://www.gutenberg.org/2009/agents/36098
+description: ''
+gutenberg_bookshelf: World War II
+gutenberg_issued: '2010-06-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32900'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'House construction -- Fiction'
+- !lcc 'PS'
+- !lcsh 'World War, 1939-1945 -- United States -- Fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Science fiction'
+title: Rats in the Belfry
+url: http://www.gutenberg.org/ebooks/32900
