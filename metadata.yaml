@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '36098'
     url: http://www.gutenberg.org/2009/agents/36098
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32900#Rats-in-the-Belfry
 gutenberg_bookshelf: World War II
 gutenberg_issued: '2010-06-19'
 gutenberg_type: Text
